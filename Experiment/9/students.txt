@@ -1,0 +1,5 @@
+Serial No.	First Name	CGPA	Grade
+1		Neyasa		9.5	A
+2		Devansh		9	A
+3		Alice		7.8	B
+4		Jack		9.4	A

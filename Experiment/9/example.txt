@@ -1,0 +1,2 @@
+Hello, this is a simple file handling example.
+We are performing read and write operations in Java.
